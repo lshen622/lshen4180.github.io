@@ -208,7 +208,7 @@ int main(int argc, char **argv) {
 
 ```
 
-The last part of the code will be the game itself. This code will read from the 2 .txt files for game's conditions. The game is written in Python and we use Pygame library to facilitate our game development.
+The last part of the code will be the game itself. This code will read from the 2 .txt files for game's conditions. The game is written in Python and we use Pygame library to facilitate our game development. In addition, we used multithreading method for the game as well. We programmed a seperate thread that is dedicated to read the keycodes and distance flag from the 2 files so that it won't slow down the game.
 
 ```python
 # Import necessary libraries
