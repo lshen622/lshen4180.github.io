@@ -18,18 +18,20 @@ The following video shows how the game is played.
 ## Hardware and Wiring
 
 <figure align="center">
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/mbed.jpg" alt="mbed image" width="10%">
     <figcaption>mbed LPC1767</figcaption>
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/mbed.jpg" alt="mbed image" width="10%">
 </figure>
 
 <figure align="center">
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/pi.jpg" alt="Pi image" width="20%">
     <figcaption>Raspberry Pi 3</figcaption>
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/pi.jpg" alt="Pi image" width="20%">
+    
 </figure>
 
 <figure align="center">
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/sensor.jpg" alt="sensor image" width="20%">
     <figcaption>Ultrasonic Distance Sensor</figcaption>
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/sensor.jpg" alt="sensor image" width="20%">
+    
 </figure>
 
 <figure align="center">
