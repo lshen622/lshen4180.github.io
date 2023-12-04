@@ -18,7 +18,7 @@ The following video shows how the game is played.
 ## Operation Diagram
 
 <figure align="center">
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/flowchart.jpg" alt="mbed image" width="100%">
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/flowchart.jpg" alt="mbed image" width="60%">
 </figure>
 
 ## Hardware and Wiring
