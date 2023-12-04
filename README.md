@@ -17,7 +17,7 @@ The following video shows how the game is played.
 
 ## Hardware and Wiring
 
-![Hardware Setup Image](link_to_hardware_image)
+![mbed image](https://github.com/lshen622/lshen4180.github.io/blob/main/images/mbed.jpg)
 
 ## Software
 Discuss the software aspect of the project. This could include code snippets, descriptions of algorithms, or software architecture.
