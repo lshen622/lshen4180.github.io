@@ -1,5 +1,8 @@
 <h1 align="center">ECE4180 Final Project: Whack-A-Mole</h1>
 <p align="center">by Liyuan Shen, Wensi Huang, Tianyi Chu</p>
+<figure align="center">
+    <img src="./images/game.jpg" alt="game" width="60%">
+</figure>
 
 ## Introduction
 Welcome to our innovative version of the classic Whack-A-Mole game, reimagined with modern technology. This game offers a unique twist by incorporating an ultrasonic sensor and an MPR121 touchpad to provide a more interactive and engaging experience. 
