@@ -1,4 +1,5 @@
 # Whack-a-Mole
+##by Liyuan Shen, Wensi Huang, Tianyi Chu
 
 ## Introduction
 Welcome to our innovative version of the classic Whack-A-Mole game, reimagined with modern technology. This game offers a unique twist by incorporating an ultrasonic sensor and an MPR121 touchpad to provide a more interactive and engaging experience. 
