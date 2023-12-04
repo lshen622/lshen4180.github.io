@@ -47,7 +47,7 @@ The following video shows how the game is played.
 </figure>
 
 <figure align="center">
-    <figcaption>Pins for the peripherals</figcaption>
+    <figcaption>Wiring</figcaption>
     <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/pin.PNG" alt="touchpad image" width="20%">
     
 </figure>
