@@ -15,6 +15,12 @@ The following video shows how the game is played.
 ![Demo Image](link_to_image)
 [Video Demonstration](link_to_video)
 
+## Operation Diagram
+
+<figure align="center">
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/flowchart.jpg" alt="mbed image" width="10%">
+</figure>
+
 ## Hardware and Wiring
 
 <figure align="center">
