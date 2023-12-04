@@ -18,14 +18,14 @@ The following video shows how the game is played.
 ## Operation Diagram
 
 <figure align="center">
-    <img src="images/flowchart.jpg" alt="flowchart" width="60%">
+    <img src="./images/flowchart.jpg" alt="flowchart" width="60%">
 </figure>
 
 ## Hardware and Wiring
 
 <figure align="center">
     <figcaption>mbed LPC1767</figcaption>
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/mbed.jpg" alt="mbed image" width="10%">
+    <img src="./images/mbed.jpg" alt="mbed image" width="10%">
 </figure>
 
 <figure align="center">
@@ -36,19 +36,19 @@ The following video shows how the game is played.
 
 <figure align="center">
     <figcaption>Ultrasonic Distance Sensor</figcaption>
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/sensor.jpg" alt="sensor image" width="20%">
+    <img src="./images/sensor.jpg" alt="sensor image" width="20%">
     
 </figure>
 
 <figure align="center">
     <figcaption>MPR121 Touch Pad</figcaption>
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/touchpad.jpg" alt="touchpad image" width="20%">
+    <img src="./images/touchpad.jpg" alt="touchpad image" width="20%">
     
 </figure>
 
 <figure align="center">
     <figcaption>Wiring</figcaption>
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/pin.PNG" alt="touchpad image" width="20%">
+    <img src="./images/pin.PNG" alt="touchpad image" width="20%">
     
 </figure>
 
@@ -513,4 +513,5 @@ while running:
 ```
 
 The complete package of the game on the Raspberry Pi 3 can be found [here](https://github.com/lshen622/lshen4180.github.io/tree/main/codes/4180%20v3).
+
 The keil studio cloud project for the mbed can be found [here](https://github.com/lshen622/lshen4180.github.io/blob/47a40b5ff31cc50bd871d83d7b2495a703327c8c/codes/mpr121_distance_mbed_pi.tar).
