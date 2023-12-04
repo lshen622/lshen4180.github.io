@@ -522,8 +522,12 @@ The keil studio cloud project for the mbed can be found [here](https://github.co
 ## Workload
 
 Hardware testing and debugging: 4 hours
+
 Data transfer design: 5 hours
+
 Game development: 15 hours
 
+
 Liyuan Shen: Hardware coding, Data transfer solutions
+
 Wensi Huang, Tianyi Chu: Game development, visual art effect
