@@ -125,4 +125,11 @@ int main() {
         wait(0.01); // Add a small delay to debounce and prevent flooding the serial port
     }
 }
+```
+
+Then next code is used on the pi to receive the msg sent from the mbed. This code will also write the first two digit to a file called keycodes.txt and the last digit to distanceFlag.txt. The code is shown below.
+
+```cpp
+
+```
 
