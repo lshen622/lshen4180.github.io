@@ -18,8 +18,8 @@ The following video shows how the game is played.
 ## Hardware and Wiring
 
 <figure align="center">
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/mbed.jpg" alt="mbed image" width="30%">
-    <figcaption>Your caption here</figcaption>
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/mbed.jpg" alt="mbed image" width="10%">
+    <figcaption>mbed LPC1767</figcaption>
 </figure>
 
 
