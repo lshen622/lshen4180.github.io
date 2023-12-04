@@ -37,6 +37,11 @@ The following video shows how the game is played.
     <figcaption>MPR121 Touch Pad</figcaption>
 </figure>
 
+<figure align="center">
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/pin.PNG" alt="touchpad image" width="20%">
+    <figcaption>Pins for the peripherals</figcaption>
+</figure>
+
 
 ## Software
 Discuss the software aspect of the project. This could include code snippets, descriptions of algorithms, or software architecture.
