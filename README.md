@@ -54,8 +54,8 @@ The following video shows how the game is played.
 
 
 ## Software
-Discuss the software aspect of the project. This could include code snippets, descriptions of algorithms, or software architecture.
 
-```python
-# Sample code snippet
-print("Hello, World!")
+Discuss the software aspect of the project. This could include descriptions of algorithms or software architecture.
+
+For a detailed view of the code, see [mbed codes](https://github.com/lshen622/lshen4180.github.io/blob/main/codes/main.cpp).
+
