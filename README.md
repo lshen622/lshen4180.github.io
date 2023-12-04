@@ -22,6 +22,21 @@ The following video shows how the game is played.
     <figcaption>mbed LPC1767</figcaption>
 </figure>
 
+<figure align="center">
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/pi.jpg" alt="Pi image" width="10%">
+    <figcaption>Raspberry Pi 3</figcaption>
+</figure>
+
+<figure align="center">
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/sensor.jpg" alt="sensor image" width="10%">
+    <figcaption>Ultrasonic Distance Sensor</figcaption>
+</figure>
+
+<figure align="center">
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/touchpad.jpg" alt="touchpad image" width="10%">
+    <figcaption>MPR121 Touch Pad</figcaption>
+</figure>
+
 
 ## Software
 Discuss the software aspect of the project. This could include code snippets, descriptions of algorithms, or software architecture.
