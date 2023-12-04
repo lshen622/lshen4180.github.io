@@ -526,6 +526,9 @@ Data transfer design: 5 hours
 
 Game development: 15 hours
 
+Visual art: 4 hours
+
+
 
 Liyuan Shen: Hardware coding, Data transfer solutions
 
