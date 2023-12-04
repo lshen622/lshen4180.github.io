@@ -512,3 +512,4 @@ while running:
 
 ```
 
+The complete package of the game on the Raspberry Pi 3 can be found [here](https://github.com/lshen622/lshen4180.github.io/tree/main/codes/4180%20v3).
