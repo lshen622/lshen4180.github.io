@@ -30,7 +30,7 @@ The following video shows how the game is played.
 
 <figure align="center">
     <figcaption>Raspberry Pi 3</figcaption>
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/pi.jpg" alt="Pi image" width="20%">
+    <img src="images/pi.jpg" alt="Pi image" width="20%">
     
 </figure>
 
