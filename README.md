@@ -1,4 +1,4 @@
-<h1 align="center">Whack-A-Mole Game with Ultrasonic Sensor and Touchpad Input</h1>
+<h1 align="center">ECE4180 Final Project: Whack-A-Mole</h1>
 <p align="center">by Liyuan Shen, Wensi Huang, Tianyi Chu</p>
 
 ## Introduction
