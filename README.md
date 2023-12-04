@@ -35,13 +35,15 @@ The following video shows how the game is played.
 </figure>
 
 <figure align="center">
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/touchpad.jpg" alt="touchpad image" width="20%">
     <figcaption>MPR121 Touch Pad</figcaption>
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/touchpad.jpg" alt="touchpad image" width="20%">
+    
 </figure>
 
 <figure align="center">
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/pin.PNG" alt="touchpad image" width="20%">
     <figcaption>Pins for the peripherals</figcaption>
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/pin.PNG" alt="touchpad image" width="20%">
+    
 </figure>
 
 
