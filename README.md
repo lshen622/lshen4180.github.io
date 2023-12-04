@@ -36,7 +36,7 @@ The following video shows how the game is played.
 
 <figure align="center">
     <figcaption>Ultrasonic Distance Sensor</figcaption>
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/sensor.jpg" alt="sensor image" width="20%">
+    <img src="https://lshen622/lshen4180.github.io/blob/main/images/sensor.jpg" alt="sensor image" width="20%">
     
 </figure>
 
