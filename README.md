@@ -23,17 +23,17 @@ The following video shows how the game is played.
 </figure>
 
 <figure align="center">
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/pi.jpg" alt="Pi image" width="10%">
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/pi.jpg" alt="Pi image" width="20%">
     <figcaption>Raspberry Pi 3</figcaption>
 </figure>
 
 <figure align="center">
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/sensor.jpg" alt="sensor image" width="10%">
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/sensor.jpg" alt="sensor image" width="20%">
     <figcaption>Ultrasonic Distance Sensor</figcaption>
 </figure>
 
 <figure align="center">
-    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/touchpad.jpg" alt="touchpad image" width="10%">
+    <img src="https://github.com/lshen622/lshen4180.github.io/blob/main/images/touchpad.jpg" alt="touchpad image" width="20%">
     <figcaption>MPR121 Touch Pad</figcaption>
 </figure>
 
