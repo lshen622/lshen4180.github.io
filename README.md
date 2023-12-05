@@ -20,7 +20,7 @@ The following video shows how the game is played.
 ## Operation Diagram
 
 <figure align="center">
-    <img src="./images/flowchart.jpg" alt="flowchart" width="60%">
+    <img src="./images/flowchart_1.jpg" alt="flowchart" width="60%">
 </figure>
 
 ## Hardware and Wiring
