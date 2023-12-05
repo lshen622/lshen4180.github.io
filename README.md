@@ -15,7 +15,7 @@ Our Whack-A-Mole game is not only entertaining but also demonstrates the potenti
 ## Demo
 The following video shows how the game is played.
 
-[Video Demonstration](https://www.youtube.com/watch?v=6YDhB-YYZXM&ab_channel=shenly)
+[Video Demonstration](https://www.youtube.com/watch?v=RVkBSYTdZxs&ab_channel=shenly)
 
 ## Operation Diagram
 
